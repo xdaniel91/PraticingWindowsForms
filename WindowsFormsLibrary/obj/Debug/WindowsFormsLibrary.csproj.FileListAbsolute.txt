@@ -1,0 +1,16 @@
+C:\Users\DanielRodriguesCarva\Source\Repos\FormsExercises\TestesWindowsForms\WindowsFormsLibrary\bin\Debug\WindowsFormsLibrary.dll
+C:\Users\DanielRodriguesCarva\Source\Repos\FormsExercises\TestesWindowsForms\WindowsFormsLibrary\bin\Debug\WindowsFormsLibrary.pdb
+C:\Users\DanielRodriguesCarva\Source\Repos\FormsExercises\TestesWindowsForms\WindowsFormsLibrary\obj\Debug\WindowsFormsLibrary.csproj.CoreCompileInputs.cache
+C:\Users\DanielRodriguesCarva\Source\Repos\FormsExercises\TestesWindowsForms\WindowsFormsLibrary\obj\Debug\WindowsFormsLibrary.dll
+C:\Users\DanielRodriguesCarva\Source\Repos\FormsExercises\TestesWindowsForms\WindowsFormsLibrary\obj\Debug\WindowsFormsLibrary.pdb
+C:\Users\DanielRodriguesCarva\Source\Repos\FormsExercises\TestesWindowsForms\WindowsFormsLibrary\obj\Debug\WindowsFormsLibrary.csproj.AssemblyReference.cache
+C:\Users\DanielRodriguesCarva\Source\Repos\FormsExercises\TestesWindowsForms\WindowsFormsLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DanielRodriguesCarva\Source\Repos\FormsExercises\TestesWindowsForms\WindowsFormsLibrary\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DanielRodriguesCarva\Source\Repos\FormsExercises\Praticing WinForms\WindowsFormsLibrary\bin\Debug\WindowsFormsLibrary.dll
+C:\Users\DanielRodriguesCarva\Source\Repos\FormsExercises\Praticing WinForms\WindowsFormsLibrary\bin\Debug\WindowsFormsLibrary.pdb
+C:\Users\DanielRodriguesCarva\Source\Repos\FormsExercises\Praticing WinForms\WindowsFormsLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DanielRodriguesCarva\Source\Repos\FormsExercises\Praticing WinForms\WindowsFormsLibrary\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DanielRodriguesCarva\Source\Repos\FormsExercises\Praticing WinForms\WindowsFormsLibrary\obj\Debug\WindowsFormsLibrary.csproj.CoreCompileInputs.cache
+C:\Users\DanielRodriguesCarva\Source\Repos\FormsExercises\Praticing WinForms\WindowsFormsLibrary\obj\Debug\WindowsFormsLibrary.dll
+C:\Users\DanielRodriguesCarva\Source\Repos\FormsExercises\Praticing WinForms\WindowsFormsLibrary\obj\Debug\WindowsFormsLibrary.pdb
+C:\Users\DanielRodriguesCarva\Source\Repos\FormsExercises\Praticing WinForms\WindowsFormsLibrary\obj\Debug\WindowsFormsLibrary.csproj.AssemblyReference.cache

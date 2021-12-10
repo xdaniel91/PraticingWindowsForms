@@ -1,0 +1,48 @@
+C:\Users\DanielRodriguesCarva\source\repos\TestesWindowsForms\TestesWindowsForms\bin\Debug\TestesWindowsForms.exe.config
+C:\Users\DanielRodriguesCarva\source\repos\TestesWindowsForms\TestesWindowsForms\bin\Debug\TestesWindowsForms.exe
+C:\Users\DanielRodriguesCarva\source\repos\TestesWindowsForms\TestesWindowsForms\bin\Debug\TestesWindowsForms.pdb
+C:\Users\DanielRodriguesCarva\source\repos\TestesWindowsForms\TestesWindowsForms\obj\Debug\TestesWindowsForms.csproj.AssemblyReference.cache
+C:\Users\DanielRodriguesCarva\source\repos\TestesWindowsForms\TestesWindowsForms\obj\Debug\TestesWindowsForms.Frm_Menu_Principal.resources
+C:\Users\DanielRodriguesCarva\source\repos\TestesWindowsForms\TestesWindowsForms\obj\Debug\TestesWindowsForms.Frm_Senha.resources
+C:\Users\DanielRodriguesCarva\source\repos\TestesWindowsForms\TestesWindowsForms\obj\Debug\TestesWindowsForms.Properties.Resources.resources
+C:\Users\DanielRodriguesCarva\source\repos\TestesWindowsForms\TestesWindowsForms\obj\Debug\TestesWindowsForms.csproj.GenerateResource.cache
+C:\Users\DanielRodriguesCarva\source\repos\TestesWindowsForms\TestesWindowsForms\obj\Debug\TestesWindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\DanielRodriguesCarva\source\repos\TestesWindowsForms\TestesWindowsForms\obj\Debug\TestesWindowsForms.exe
+C:\Users\DanielRodriguesCarva\source\repos\TestesWindowsForms\TestesWindowsForms\obj\Debug\TestesWindowsForms.pdb
+C:\Users\DanielRodriguesCarva\Source\Repos\FormsExercises\TestesWindowsForms\TestesWindowsForms\bin\Debug\TestesWindowsForms.exe.config
+C:\Users\DanielRodriguesCarva\Source\Repos\FormsExercises\TestesWindowsForms\TestesWindowsForms\bin\Debug\TestesWindowsForms.exe
+C:\Users\DanielRodriguesCarva\Source\Repos\FormsExercises\TestesWindowsForms\TestesWindowsForms\bin\Debug\TestesWindowsForms.pdb
+C:\Users\DanielRodriguesCarva\Source\Repos\FormsExercises\TestesWindowsForms\TestesWindowsForms\obj\Debug\TestesWindowsForms.csproj.AssemblyReference.cache
+C:\Users\DanielRodriguesCarva\Source\Repos\FormsExercises\TestesWindowsForms\TestesWindowsForms\obj\Debug\TestesWindowsForms.Frm_Menu_Principal.resources
+C:\Users\DanielRodriguesCarva\Source\Repos\FormsExercises\TestesWindowsForms\TestesWindowsForms\obj\Debug\TestesWindowsForms.Frm_Senha.resources
+C:\Users\DanielRodriguesCarva\Source\Repos\FormsExercises\TestesWindowsForms\TestesWindowsForms\obj\Debug\TestesWindowsForms.Properties.Resources.resources
+C:\Users\DanielRodriguesCarva\Source\Repos\FormsExercises\TestesWindowsForms\TestesWindowsForms\obj\Debug\TestesWindowsForms.csproj.GenerateResource.cache
+C:\Users\DanielRodriguesCarva\Source\Repos\FormsExercises\TestesWindowsForms\TestesWindowsForms\obj\Debug\TestesWindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\DanielRodriguesCarva\Source\Repos\FormsExercises\TestesWindowsForms\TestesWindowsForms\obj\Debug\TestesWindowsForms.exe
+C:\Users\DanielRodriguesCarva\Source\Repos\FormsExercises\TestesWindowsForms\TestesWindowsForms\obj\Debug\TestesWindowsForms.pdb
+C:\Users\DanielRodriguesCarva\Source\Repos\FormsExercises\TestesWindowsForms\TestesWindowsForms\obj\Debug\TestesWindowsForms.Calculator.resources
+C:\Users\DanielRodriguesCarva\Source\Repos\FormsExercises\TestesWindowsForms\TestesWindowsForms\bin\Debug\WindowsFormsLibrary.dll
+C:\Users\DanielRodriguesCarva\Source\Repos\FormsExercises\TestesWindowsForms\TestesWindowsForms\bin\Debug\WindowsFormsLibrary.pdb
+C:\Users\DanielRodriguesCarva\Source\Repos\FormsExercises\TestesWindowsForms\TestesWindowsForms\obj\Debug\TestesWindowsForms.Cadastro.resources
+C:\Users\DanielRodriguesCarva\Source\Repos\FormsExercises\TestesWindowsForms\TestesWindowsForms\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DanielRodriguesCarva\Source\Repos\FormsExercises\TestesWindowsForms\TestesWindowsForms\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DanielRodriguesCarva\Source\Repos\FormsExercises\TestesWindowsForms\TestesWindowsForms\obj\Debug\TestesWindowsForms.FrmConsultaCep.resources
+C:\Users\DanielRodriguesCarva\Source\Repos\FormsExercises\Praticing WinForms\TestesWindowsForms\bin\Debug\TestesWindowsForms.exe.config
+C:\Users\DanielRodriguesCarva\Source\Repos\FormsExercises\Praticing WinForms\TestesWindowsForms\bin\Debug\TestesWindowsForms.exe
+C:\Users\DanielRodriguesCarva\Source\Repos\FormsExercises\Praticing WinForms\TestesWindowsForms\bin\Debug\TestesWindowsForms.pdb
+C:\Users\DanielRodriguesCarva\Source\Repos\FormsExercises\Praticing WinForms\TestesWindowsForms\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DanielRodriguesCarva\Source\Repos\FormsExercises\Praticing WinForms\TestesWindowsForms\bin\Debug\WindowsFormsLibrary.dll
+C:\Users\DanielRodriguesCarva\Source\Repos\FormsExercises\Praticing WinForms\TestesWindowsForms\bin\Debug\WindowsFormsLibrary.pdb
+C:\Users\DanielRodriguesCarva\Source\Repos\FormsExercises\Praticing WinForms\TestesWindowsForms\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DanielRodriguesCarva\Source\Repos\FormsExercises\Praticing WinForms\TestesWindowsForms\obj\Debug\TestesWindowsForms.csproj.AssemblyReference.cache
+C:\Users\DanielRodriguesCarva\Source\Repos\FormsExercises\Praticing WinForms\TestesWindowsForms\obj\Debug\TestesWindowsForms.Cadastro.resources
+C:\Users\DanielRodriguesCarva\Source\Repos\FormsExercises\Praticing WinForms\TestesWindowsForms\obj\Debug\TestesWindowsForms.Calculator.resources
+C:\Users\DanielRodriguesCarva\Source\Repos\FormsExercises\Praticing WinForms\TestesWindowsForms\obj\Debug\TestesWindowsForms.FrmConsultaCep.resources
+C:\Users\DanielRodriguesCarva\Source\Repos\FormsExercises\Praticing WinForms\TestesWindowsForms\obj\Debug\TestesWindowsForms.Frm_Menu_Principal.resources
+C:\Users\DanielRodriguesCarva\Source\Repos\FormsExercises\Praticing WinForms\TestesWindowsForms\obj\Debug\TestesWindowsForms.Frm_Senha.resources
+C:\Users\DanielRodriguesCarva\Source\Repos\FormsExercises\Praticing WinForms\TestesWindowsForms\obj\Debug\TestesWindowsForms.Properties.Resources.resources
+C:\Users\DanielRodriguesCarva\Source\Repos\FormsExercises\Praticing WinForms\TestesWindowsForms\obj\Debug\TestesWindowsForms.csproj.GenerateResource.cache
+C:\Users\DanielRodriguesCarva\Source\Repos\FormsExercises\Praticing WinForms\TestesWindowsForms\obj\Debug\TestesWindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\DanielRodriguesCarva\Source\Repos\FormsExercises\Praticing WinForms\TestesWindowsForms\obj\Debug\TestesWindowsForms.exe
+C:\Users\DanielRodriguesCarva\Source\Repos\FormsExercises\Praticing WinForms\TestesWindowsForms\obj\Debug\TestesWindowsForms.pdb
+C:\Users\DanielRodriguesCarva\Source\Repos\FormsExercises\Praticing WinForms\TestesWindowsForms\obj\Debug\TestesWindowsForms.Frm.FrmBuscar.resources
